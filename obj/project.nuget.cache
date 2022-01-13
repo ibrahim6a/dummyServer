@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zANKDZflJD1p2xDHjgkj3IK68PW0NPtDxVCv+R/5nQhOvgbxqiH1s5NMgh7Z1+6d4lp6+hyV2pvurvNnjtaVVw==",
+  "success": true,
+  "projectFilePath": "/Users/ibrahim/Documents/Software/nama-bank/dummy-server/dummy-server.csproj",
+  "expectedPackageFiles": [
+    "/Users/ibrahim/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/ibrahim/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/ibrahim/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/ibrahim/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/ibrahim/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/ibrahim/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
