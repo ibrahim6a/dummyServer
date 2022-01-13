@@ -7,8 +7,8 @@ namespace dummy_server.Data {
     public class DummyData {
 
         public List<User> userList = new List<User>() {
-            new User(1, "Ibrahim", "Aboud", "ia@gmail.com", 5000),
-            new User(2, "Hadi", "Emami", "emami@gmaill.com", 5000)
+            new User(1, "John", "Doe", "jd@gmail.com", 5000),
+            new User(2, "Jane", "Doe", "jane.d@gmaill.com", 5000)
         };
 
     
